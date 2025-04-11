@@ -1,0 +1,27 @@
+#test1{
+    color: purple;
+
+}
+
+#test2{
+
+    color: beige;
+}
+
+#test3{
+    color: aqua;
+}
+
+div p{
+    color: brown;
+}
+
+input[type="email"]{
+    background-color: blueviolet;
+}
+input[type="password"]{
+    background-color: antiquewhite;
+}
+input[type="submit"]{
+    background-color: plum;
+}
